@@ -1,0 +1,28 @@
+name: MilkweedandSalsa
+favicon: null
+layout_spectrum: 0.8813796658068895
+typography_spectrum: 0.44288639281876385
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.10807258356362581
+  lightness: 0.7540276993531734
+  saturation: 0.11080784979276359
+  rhythmicContrast: 0.7502375680487603
+purpose: []
